@@ -77,17 +77,6 @@ Trade log CSV generated from Python script.
 
 ---
 
-## 🗂️ Repository Contents
-
-| File/Folder              
-|--------------------------
-| `ORB_Backtest.py.pdf`    
-| `ORB_Strategy.pbix`      
-| `Dashboard_Screenshot.png`
-| `market_data.csv`        
-| `trades_log.csv`   
-
-
 ## 📜 License
 
 This project is for educational and personal use only. Not intended as financial advice or for real trading use.
